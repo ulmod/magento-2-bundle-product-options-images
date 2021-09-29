@@ -17,8 +17,8 @@
 
 
 <img src="https://www.ulmod.com//media/ulmod_products/bundleitem/bundle-item-images.png">
-<img src="https://www.ulmod.com//media/ulmod_products/bundleitem/bundle-item-images.png">
 <img src="https://www.ulmod.com//media/ulmod_products/bundleitem/bundle-expand-collapse.png">
+<img src="https://www.ulmod.com//media/ulmod_products/bundleitem/bundle-item-popup.png">
 
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
